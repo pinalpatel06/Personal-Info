@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PersonInfo</string>
+    <string name="fname">Person Name</string>
+    <string name="lname">Last Name</string>
+    <string name="save">Save</string>
+    <string name="cancle">Cancle</string>
+    <string name="action_item_add">add</string>
+    <string name="save_err_msg">Operation Cancled</string>
+    <string name="invalid_cursor_err_msg">This should be called when cursor is valid!!</string>
+    <string name="invalid_cursor_pos_err_msg">Can\'t move  cursor  posiiton to %1$d</string>
+    <string name="dob">Date of Birth</string>
+    <string name="text_dob">Touch to select Date</string>
+    <string name="delete_msg">Total Row deleted %1$d</string>
+    <string name="save_msg">Your data has been Saved!!!</string>
+    <string name="update_msg">Your data has been updated!!</string>
+</resources>
